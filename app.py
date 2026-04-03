@@ -6,3 +6,6 @@ def sub(a,b,d):
 
 def dev(a,b):
     return a / b
+
+def mul(a,b):
+    return a * b
